@@ -1,4 +1,5 @@
-** A LocalDate class is an immutable class that represents Date with a default format of yyyy-MM-dd. It inherits Object class and implements the ChronoLocalDate interface
+** A LocalDate class is an immutable class that represents Date with a default format of yyyy-MM-dd. 
+It inherits Object class and implements the ChronoLocalDate interface
 
 Solution:
 import java.io.*;
